@@ -1,0 +1,8 @@
+.root{
+    width: 500px;
+    height: 400px;
+}
+
+.container{
+    maxHeight: 440,
+}
